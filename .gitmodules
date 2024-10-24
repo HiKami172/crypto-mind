@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/HiKami172/crypto-mind-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/HiKami172/crypto-mind-frontend.git
